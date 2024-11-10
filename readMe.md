@@ -1,4 +1,4 @@
-# Lua 102
+# Lua 102 Variable Global and Local
 
 ```
 This Lua programing project create for my portfolio
